@@ -36,11 +36,11 @@ See the screenshot above for a preview of the button’s appearance.
 
 **Image before Hovering**
 
-![before hover](./Button-1.png "The button 1")
+![before hover](./imgs/Button-1.png "The button 1")
 
 **Image after hovering**
 
-![after hover](./button-2.png "The Button 2")
+![after hover](./imgs/button-2.png "The Button 2")
 
 ## License
 
