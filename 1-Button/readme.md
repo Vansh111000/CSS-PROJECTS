@@ -47,5 +47,7 @@ See the screenshot above for a preview of the button’s appearance.
 This project is open-source and available under the [MIT License](../LICENSE).
 
 ---
-
+<!--
 *Created by [Vansh111000](https://github.com/Vansh111000)*
+-->
+
