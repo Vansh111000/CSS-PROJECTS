@@ -11,4 +11,4 @@ Here's is how its look!
 
 **Image after hovering**
 
-![after hover](./button-2.png)
+![after hover](./button-2.png "The Button 2")
