@@ -35,6 +35,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
+    border-radius: 1.5px;
 }
 
 .button-border:hover{
@@ -49,6 +50,7 @@ html, body {
     background-color: var(--btn-bg);
     color: var(--btn-color);
     border: none;
+    border-radius: 1.5px;
 }
 
 .button:hover{
