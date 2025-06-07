@@ -1,0 +1,37 @@
+/* Colors 
+body background: #131417
+tile background: #1e1f26 
+username: #b7bbc8
+card stats background: #131417
+*/
+
+:root {
+    --font-main: 'Noto Sans', sans-serif;
+    --bg-main: #131417;
+    --bg-card: #1e1f26;
+    --bg-stats: #131417;
+    --username: #b7bbc8;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+}
+
+body {
+    background-color: var(--bg-main);
+    width: 100%;
+    height: auto;
+}
+.card{
+    margin: 1px 2vw;
+    position: relative;
+    
+}
+.card-thumbnail img{
+    
+}
